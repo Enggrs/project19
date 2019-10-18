@@ -1,0 +1,69 @@
+html,body{
+    margin: 0%;
+    padding: 0%;
+}
+
+.brand-logo
+{
+    position: absolute !important;
+    left: -10% !important;
+   text-decoration: none;
+   font-family: 'Comic Sans MS', sans-serif;
+   text-shadow: 4px 4px 2px rgba(0, 0, 0, 0.3);
+}
+body::-webkit-scrollbar
+{
+    width: 4px;
+}
+body::-webkit-scrollbar-thumb
+{
+  background-color: black;
+}
+.txt
+{
+    font-family: 'Comic Sans MS', sans-serif;
+    text-shadow: 4px 4px 2px rgba(0, 0, 0, 0.3);
+    font-size: 4vw !important ;
+    font-weight: bolder;
+    text-emphasis: none;
+    text-decoration: none;
+}
+.right
+{
+    position: absolute !important;
+    right: -15% !important;
+    text-decoration: none;
+
+}
+figure
+{
+    height: 20vw;
+    width: 30vw;
+}
+.section-follow .fa-4x
+{
+  margin: 10px 15px;
+}
+.div-search
+{
+    padding: 5px !important;
+    font-size: 18px !important;
+    width: 100% !important;
+
+}
+.autocomplete
+{
+    color: black !important;
+    background-color: white !important;
+    text-shadow: 4px 4px 2px rgba(141, 35, 35, 0.3);
+    font-size: 1vw !important ;
+   letter-spacing: 2px;
+    text-emphasis: none;
+    text-decoration: none;
+}
+.btn
+{
+    position: absolute;
+    left: 45%;
+    border-radius: 40px;
+}
